@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "382172171683",
+    "project_id": "tracktoeat",
+    "storage_bucket": "tracktoeat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382172171683:android:89cc123684f4c9d7ff9e16",
+        "android_client_info": {
+          "package_name": "com.tracktoeat.tracktoeat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382172171683-tkinaipbuikl1r993606shvb8b3jfomk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tracktoeat.tracktoeat",
+            "certificate_hash": "e7d58bc05deff155529032ff41b21f363cf9b91f"
+          }
+        },
+        {
+          "client_id": "382172171683-qu97ce21imaep2tip4h3nvm0vldecr0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbzTwJXAF8igvwHNgEcXxh0FsXygi-Kpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382172171683-qu97ce21imaep2tip4h3nvm0vldecr0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
